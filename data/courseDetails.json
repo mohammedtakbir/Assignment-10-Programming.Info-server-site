@@ -1,0 +1,132 @@
+[
+    {
+        "id": "01",
+        "name": "Python",
+        "title": "Learn Python Programming Masterclass",
+        "description": "This Python For Beginners Course Teaches You The Python Language Fast.",
+        "author": "Parag Agrawal",
+        "others_info": {
+            "rating": {
+                "number": 4.6,
+                "badge": "Excellent"
+            },
+            "students": "4,655"
+        },
+        "details": {
+            "list1": "Have a fundamental understanding of the Python programming language.",
+            "list2": "Acquire the pre-requisite Python skills to move into specific branches - Machine Learning, Data Science, etc..",
+            "list3": "Understand how to create your own Python programs.",
+            "list4": "Have the skills and understanding of Python to confidently apply for Python programming jobs.",
+            "list5": "Add the Python Object-Oriented Programming (OOP) skills to your résumé.",
+            "list6": "Learn Python from experienced professional software developers."
+        }
+    },
+    {
+        "id": "02",
+        "name": "Java",
+        "title": "Java Programming Masterclass covering Java 11 & Java 17",
+        "description": "Learn Java In This Course And Become a Computer Programmer. Obtain valuable Core Java Skills And Java Certification.",
+        "author": "Satya Nadella",
+        "others_info": {
+            "rating": {
+                "number": 4.5,
+                "badge": "Excellent"
+            },
+            "students": "7,973"
+        },
+        "details": {
+            "list1": "Learn the core Java skills needed to apply for Java developer positions.",
+            "list2": "Be able to demonstrate your understanding of Java to future employers.",
+            "list3": "Learn industry 'best practices' in Java software development from a professional Java developer who has worked in the language for 18 years.",
+            "list4": "Obtain proficiency in Java 8 and Java 11."
+        }
+    },
+    {
+        "id": "03",
+        "name": "C",
+        "title": "C Programming For Beginners - Master the C Language",
+        "description": "C Programming will increase career options. Become a better dev in other languages by learning C.",
+        "author": "Jack Dorsey",
+        "others_info": {
+            "rating": {
+                "number": 4.4,
+                "badge": "Excellent"
+            },
+            "students": "9,587"
+        },
+        "details": {
+            "list1": "Understand the fundamentals of the C Programming Language.",
+            "list2": "Create your first C Application.",
+            "list3": "Understand variables and the different data types.",
+            "list4": "Understand the core language that most modern languages are based on.",
+            "list5": "Learn one of the most popular, widely used languages in the world.",
+            "list6": "Learn how to write high-quality code."
+        }
+    },
+    {
+        "id": "04",
+        "name": "C++",
+        "title": "Beginning C++ Programming - From Beginner to Beyond",
+        "description": "Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C++17 covered.",
+        "author": "Evan Williams",
+        "others_info": {
+            "rating": {
+                "number": 4.6,
+                "badge": "Excellent"
+            },
+            "students": "10,642"
+        },
+        "details": {
+            "list1": "Learn to program with one of the most powerful programming languages that exists today, C++.",
+            "list2": "Learn Modern C++ rather than an obsolete version of C++ that most other courses teach.",
+            "list3": "Learn C++ using a proven curriculum that covers more material than most C++ university courses.",
+            "list4": "Includes Quizzes, Live Coding Exercises, Challenge Coding Exercises and Assignments.",
+            "list5": "Learn C++ from an experienced university full professor who has been using and teaching C++ for more than 25 years."
+        }
+    },
+    {
+        "id": "05",
+        "name": "Swift",
+        "title": "iOS & Swift - The Complete iOS App Development Bootcamp",
+        "description": "From Beginner to iOS App Developer with Just One Course! Fully Updated with a Comprehensive Module Dedicated to SwiftUI!",
+        "author": "Sergey Brin",
+        "others_info": {
+            "rating": {
+                "number": 4.8,
+                "badge": "Excellent"
+            },
+            "students": "12,619"
+        },
+        "details": {
+            "list1": "You will create a portfolio of 15 apps to be able apply for junior developer jobs at a technology company.",
+            "list2": "You will learn by doing, where every lesson is incorporated into a real-world app project.",
+            "list3": "Start your own app based business.",
+            "list4": "You will learn Xcode, UIKit and SwiftUI, ARKit, CoreML and CoreData.",
+            "list5": "After the course, you will be able to build any app you want.",
+            "list6": "Become a digital nomad by working as a freelance iOS developer."
+        }
+    },
+    {
+        "id": "06",
+        "name": "PHP",
+        "title": "PHP for Beginners - Become a PHP Master",
+        "description": "PHP for Beginners: learn everything you need to become a professional PHP developer with practical exercises & projects.",
+        "author": "Nicole Lapin",
+        "others_info": {
+            "rating": {
+                "number": 4.4,
+                "badge": "Excellent"
+            },
+            "students": "4,391"
+        },
+        "details": {
+            "list1": "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla.",
+            "list2": "You will learn MySQL.",
+            "list3": "You will learn how to launch your application online.",
+            "list4": "How to use AJAX to submit data to the server without refreshing the page.",
+            "list5": "You will learn to create clean URL's and remove the .php from files",
+            "list6": "You will learn how to use Databases.",
+            "list7": "There is so much more and my hands are just tired of typing :)."
+        }
+    }
+]
