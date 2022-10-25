@@ -1,0 +1,86 @@
+[
+    {
+        "id": "01",
+        "name": "Python",
+        "title": "Learn Python Programming Masterclass",
+        "description": "This Python For Beginners Course Teaches You The Python Language Fast.",
+        "author": "Parag Agrawal",
+        "others_info": {
+            "rating": {
+                "number": 4.6,
+                "badge": "Excellent"
+            },
+            "students": "4,655"
+        }
+    },
+    {
+        "id": "02",
+        "name": "Java",
+        "title": "Java Programming Masterclass covering Java 11 & Java 17",
+        "description": "Learn Java In This Course And Become a Computer Programmer. Obtain valuable Core Java Skills And Java Certification.",
+        "author": "Satya Nadella",
+        "others_info": {
+            "rating": {
+                "number": 4.5,
+                "badge": "Excellent"
+            },
+            "students": "7,973"
+        }
+    },
+    {
+        "id": "03",
+        "name": "C",
+        "title": "C Programming For Beginners - Master the C Language",
+        "description": "C Programming will increase career options. Become a better dev in other languages by learning C.",
+        "author": "Jack Dorsey",
+        "others_info": {
+            "rating": {
+                "number": 4.4,
+                "badge": "Excellent"
+            },
+            "students": "9,587"
+        }
+    },
+    {
+        "id": "04",
+        "name": "C++",
+        "title": "Beginning C++ Programming - From Beginner to Beyond",
+        "description": "Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C++17 covered.",
+        "author": "Evan Williams",
+        "others_info": {
+            "rating": {
+                "number": 4.6,
+                "badge": "Excellent"
+            },
+            "students": "10,642"
+        }
+    },
+    {
+        "id": "05",
+        "name": "Swift",
+        "title": "iOS & Swift - The Complete iOS App Development Bootcamp",
+        "description": "From Beginner to iOS App Developer with Just One Course! Fully Updated with a Comprehensive Module Dedicated to SwiftUI!",
+        "author": "Sergey Brin",
+        "others_info": {
+            "rating": {
+                "number": 4.8,
+                "badge": "Excellent"
+            },
+            "students": "12,619"
+        }
+    },
+    {
+        "id": "06",
+        "name": "PHP",
+        "title": "PHP for Beginners - Become a PHP Master",
+        "description": "PHP for Beginners: learn everything you need to become a professional PHP developer with practical exercises & projects.",
+        "author": "Nicole Lapin",
+        "others_info": {
+            "rating": {
+                "number": 4.4,
+                "badge": "Excellent"
+            },
+            "students": "4,391"
+        }
+    }
+]
