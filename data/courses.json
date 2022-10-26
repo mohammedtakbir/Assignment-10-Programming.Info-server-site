@@ -2,7 +2,8 @@
     {
         "id": "01",
         "name": "Python",
-        "title": "Learn Python Programming Masterclass",
+        "image": "https://images.ctfassets.net/mrop88jh71hl/55rrbZfwMaURHZKAUc5oOW/9e5fe805eb03135b82e962e92169ce6d/python-programming-language.png",
+        "title": "Complete Python Programming Masterclass Beginner to Advanced",
         "description": "This Python For Beginners Course Teaches You The Python Language Fast.",
         "author": "Parag Agrawal",
         "others_info": {
@@ -11,11 +12,13 @@
                 "badge": "Excellent"
             },
             "students": "4,655"
-        }
+        },
+        "price": 45.99
     },
     {
         "id": "02",
         "name": "Java",
+        "image": "https://www.developer.com/wp-content/uploads/2021/09/Java-tutorials.jpg",
         "title": "Java Programming Masterclass covering Java 11 & Java 17",
         "description": "Learn Java In This Course And Become a Computer Programmer. Obtain valuable Core Java Skills And Java Certification.",
         "author": "Satya Nadella",
@@ -25,11 +28,13 @@
                 "badge": "Excellent"
             },
             "students": "7,973"
-        }
+        },
+        "price": 34.99
     },
     {
         "id": "03",
         "name": "C",
+        "image": "https://1.bp.blogspot.com/-KnGVLo7U7gQ/Xx0E8Sh8KtI/AAAAAAAAhnE/THS8q3fq9zg3jWTQqFr2s0XuE_M4BABNQCLcBGAsYHQ/w1200-h630-p-k-no-nu/free%2BC%2BProgramming%2Bcourses%2Bfor%2Bbeginners.png",
         "title": "C Programming For Beginners - Master the C Language",
         "description": "C Programming will increase career options. Become a better dev in other languages by learning C.",
         "author": "Jack Dorsey",
@@ -39,11 +44,13 @@
                 "badge": "Excellent"
             },
             "students": "9,587"
-        }
+        },
+        "price": 55.99
     },
     {
         "id": "04",
         "name": "C++",
+        "image": "https://www.educative.io/v2api/editorpage/4872441600933888/image/5292920040062976",
         "title": "Beginning C++ Programming - From Beginner to Beyond",
         "description": "Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C++17 covered.",
         "author": "Evan Williams",
@@ -53,11 +60,13 @@
                 "badge": "Excellent"
             },
             "students": "10,642"
-        }
+        },
+        "price": 65.99
     },
     {
         "id": "05",
         "name": "Swift",
+        "image": "https://cdn-media-1.freecodecamp.org/images/1*S4__g3knEbuuE6qHyWIbNQ.png",
         "title": "iOS & Swift - The Complete iOS App Development Bootcamp",
         "description": "From Beginner to iOS App Developer with Just One Course! Fully Updated with a Comprehensive Module Dedicated to SwiftUI!",
         "author": "Sergey Brin",
@@ -67,11 +76,13 @@
                 "badge": "Excellent"
             },
             "students": "12,619"
-        }
+        },
+        "price": 35.99
     },
     {
         "id": "06",
         "name": "PHP",
+        "image": "https://contentstatic.techgig.com/photo/msid-81637605,width-400,resizemode-4/Pros-and-cons-of-PHP-programming-language-that-every-developer-must-know.jpg",
         "title": "PHP for Beginners - Become a PHP Master",
         "description": "PHP for Beginners: learn everything you need to become a professional PHP developer with practical exercises & projects.",
         "author": "Nicole Lapin",
@@ -81,6 +92,7 @@
                 "badge": "Excellent"
             },
             "students": "4,391"
-        }
+        },
+        "price": 35.99
     }
 ]
